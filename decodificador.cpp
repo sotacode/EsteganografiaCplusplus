@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
     FILE * img;
-    img = fopen ("Luffy.ppm","r");
+    img = fopen ("modificada.ppm","r");
 
     char letra;
     int tipo;
